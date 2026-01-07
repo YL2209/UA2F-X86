@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt-24.10 immortalwrt-MI-CR6608
+name: OpenWrt-24.10 istoreos-X86
 
 on:
   repository_dispatch:
