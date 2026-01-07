@@ -18,7 +18,7 @@ on:
   push:
     paths:
       # - 'istoreos-24.10/**'
-      # - '.github/workflows/istoreos-24.10.yml'
+      - '.github/workflows/istoreos-24.10.yml'
 
 env:
   REPO_URL: https://github.com/istoreos/istoreos.git
