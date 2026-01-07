@@ -24,7 +24,7 @@ env:
   REPO_URL: https://github.com/istoreos/istoreos.git
   REPO_BRANCH: istoreos-24.10
   FEEDS_CONF: istoreos-24.10/feeds.conf.default
-  CONFIG_FILE: istoreos-24.10/immortalwrt.config
+  CONFIG_FILE: istoreos-24.10/istoreos.config
   DIY_P1_SH: istoreos-24.10/diy-part1.sh
   DIY_P2_SH: istoreos-24.10/diy-part2.sh
   DIY_P3_SH: istoreos-24.10/diy-part3.sh
